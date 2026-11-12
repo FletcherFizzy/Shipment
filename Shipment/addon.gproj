@@ -1,0 +1,8 @@
+GameProject {
+ ID "Shipment"
+ GUID "6AD778E11F95724E"
+ TITLE "Shipment"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

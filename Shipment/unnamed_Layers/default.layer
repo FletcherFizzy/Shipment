@@ -1,0 +1,335 @@
+$grp GenericEntity : "{08EC3F22FA0347F3}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_20ft/CargoContainer_01_20ft_blue.et" {
+ {
+  coords 4879.39 28.439 11774.344
+  angles 0 -90.233 0
+ }
+ {
+  coords 4888.795 28.594 11733.015
+ }
+ {
+  coords 4884.537 28.594 11734.807
+  angles 0 -89.144 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{0EE7AF83D1711461}PrefabLibrary/DefaultLibrary/Structures/Agriculture/WaterTower_01.et" {
+ coords 4887.883 1.629 11752.42
+}
+GenericEntity : "{414422551A9A33EE}PrefabLibrary/CainLibrary/Props/Military/UAZ452_wreck_static.et" {
+ coords 4874.719 28.595 11759.546
+ angles 0 -18.663 0
+ scale 1.154
+}
+GenericEntity : "{88A64A32F78CFB77}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_20ft_blue.et" {
+ coords 4899.833 28.594 11752.184
+ scale 0.563
+}
+$grp GenericEntity : "{B5A86460520051EC}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_blue.et" {
+ {
+  coords 4869.658 28.594 11770.396
+  angles 0 45.283 0
+  scale 0.5
+ }
+ {
+  coords 4903.532 28.562 11738.475
+  angles 0 48.725 0
+  scale 0.5
+ }
+ {
+  coords 4867.025 28.595 11756.141
+ }
+}
+$grp GenericEntity : "{BB033EBC565E7577}PrefabLibrary/DefaultLibrary/Props/Military/UAZ469_wreck.et" {
+ {
+  coords 4903.425 27.857 11766.439
+  angles 0 -50.628 0
+  scale 1.765
+ }
+ {
+  coords 4898.748 27.9 11771.595
+  angles 0 -31.995 0
+  scale 1.765
+ }
+ {
+  coords 4871.72 27.775 11741.022
+  angles 0 -44.572 0
+  scale 2.136
+ }
+}
+$grp GenericEntity : "{BCE56C835FE15478}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_20ft/CargoContainer_01_20ft_red.et" {
+ {
+  coords 4882.772 28.594 11758.912
+  scale 1.25
+ }
+ {
+  coords 4892.619 28.594 11758.577
+  scale 1.25
+ }
+ {
+  coords 4892.737 28.594 11745.438
+  scale 1.25
+ }
+ {
+  coords 4882.634 28.594 11746.083
+  scale 1.25
+ }
+}
+$grp StaticModelEntity : "{CAE1588B6265A2AB}Prefabs/Structures/Walls/BarbedWire/BarbedTape_01/BarbedTape_01_Short_noStake.et" {
+ {
+  coords 4911.511 2.565 11758.838
+  scale 2.5
+ }
+ {
+  coords 4911.38 2.565 11754.294
+  scale 2.61
+ }
+ {
+  coords 4911.183 2.565 11748.71
+  scale 2.79
+ }
+ {
+  coords 4911.333 2.565 11743.361
+  scale 2.9
+ }
+ {
+  coords 4911.387 2.534 11738.454
+  scale 2.84
+ }
+ {
+  coords 4911.229 2.549 11734.063
+  scale 2.55
+ }
+ {
+  coords 4911.232 2.537 11763.548
+  scale 2.67
+ }
+ {
+  coords 4910.797 2.552 11768.453
+  scale 2.5
+ }
+ {
+  coords 4910.92 2.533 11772.566
+  scale 2.531
+ }
+ {
+  coords 4910.891 2.549 11777.007
+  scale 2.5
+ }
+ {
+  coords 4907.876 2.545 11778.989
+  angles 0 -84.695 0
+  scale 2.5
+ }
+ {
+  coords 4903.403 2.544 11779.091
+  angles 0 -91.843 0
+  scale 2.5
+ }
+ {
+  coords 4898.498 2.565 11779.164
+  angles 0 -85.949 0
+  scale 2.5
+ }
+ {
+  coords 4894.085 2.565 11779.271
+  angles 0 -83.412 0
+  scale 2.5
+ }
+ {
+  coords 4889.487 2.495 11779.451
+  angles 0 -88.004 0
+  scale 2.5
+ }
+ {
+  coords 4884.85 2.534 11779.334
+  angles 0 -88.309 0
+  scale 2.5
+ }
+ {
+  coords 4879.884 2.566 11779.355
+  angles 0 -86.087 0
+  scale 2.5
+ }
+ {
+  coords 4874.961 2.647 11779.168
+  angles 0 -86.962 0
+  scale 2.5
+ }
+ {
+  coords 4870.489 2.534 11779.399
+  angles 0 -86.876 0
+  scale 2.5
+ }
+ {
+  coords 4866.022 2.536 11779.515
+  angles 0 -87.788 0
+  scale 2.5
+ }
+ {
+  coords 4862.53 2.566 11778.314
+  scale 2.5
+ }
+ {
+  coords 4862.499 2.534 11773.383
+  scale 2.5
+ }
+ {
+  coords 4862.648 2.593 11768.677
+  scale 2.5
+ }
+ {
+  coords 4862.493 2.563 11763.845
+  scale 2.5
+ }
+ {
+  coords 4862.531 2.565 11759.696
+  scale 2.5
+ }
+ {
+  coords 4862.627 2.56 11754.755
+  angles 0 2.567 0
+  scale 2.5
+ }
+ {
+  coords 4862.681 2.533 11750.17
+  scale 2.5
+ }
+ {
+  coords 4862.596 2.533 11745.335
+  angles 0 3.009 0
+  scale 2.5
+ }
+ {
+  coords 4862.732 2.555 11740.355
+  angles 0 2.338 0
+  scale 2.5
+ }
+ {
+  coords 4862.76 2.546 11735.668
+  scale 2.5
+ }
+ {
+  coords 4866.151 2.567 11731.375
+  angles 0 -87.019 0
+  scale 2.5
+ }
+ {
+  coords 4870.292 2.567 11731.157
+  angles 0 -88.1 0
+  scale 2.5
+ }
+ {
+  coords 4875.399 2.478 11731.298
+  angles 0.585 -86.85 -10.513
+  scale 2.5
+ }
+ {
+  coords 4880.377 2.566 11730.835
+  angles 0 -89.259 0
+  scale 2.5
+ }
+ {
+  coords 4885.245 2.551 11730.83
+  angles 0 -87.1 0
+  scale 2.5
+ }
+ {
+  coords 4890.083 2.541 11730.904
+  angles 0 -86.445 0
+  scale 2.5
+ }
+ {
+  coords 4894.324 2.566 11730.939
+  angles 0 -86.252 0
+  scale 2.5
+ }
+ {
+  coords 4898.362 2.55 11730.829
+  angles 0 -85.663 0
+  scale 2.5
+ }
+ {
+  coords 4903.166 2.561 11731.042
+  angles 0 -88.33 0
+  scale 2.5
+ }
+ {
+  coords 4907.875 2.533 11730.679
+  angles 0 -87.447 0
+  scale 2.5
+ }
+}
+$grp GenericEntity : "{E8AD23C4B23D9826}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_40ft/CargoContainer_01_40ft_red.et" {
+ {
+  coords 4862.495 28.594 11762.312
+ }
+ {
+  coords 4862.609 28.594 11750.229
+ }
+ {
+  coords 4862.619 28.594 11738.115
+ }
+ {
+  coords 4862.486 28.595 11774.648
+ }
+ {
+  coords 4869.814 28.594 11779.492
+  angles 0 -89.806 0
+ }
+ {
+  coords 4882.047 28.595 11779.418
+  angles 0 -89.803 0
+ }
+ {
+  coords 4894.129 28.594 11779.316
+  angles 0 -89.175 0
+ }
+ {
+  coords 4906.377 28.594 11779.186
+  angles 0 -89.837 0
+ }
+ {
+  coords 4911.214 28.594 11772.052
+ }
+ {
+  coords 4911.225 28.594 11759.957
+ }
+ {
+  coords 4911.233 28.594 11747.732
+ }
+ {
+  coords 4911.204 28.595 11735.557
+ }
+ {
+  coords 4903.906 28.594 11730.716
+  angles 0 -90.01 0
+ }
+ {
+  coords 4891.692 28.594 11730.828
+  angles 0 -89.215 0
+ }
+ {
+  coords 4879.529 28.595 11730.939
+  angles 0 -89.398 0
+ }
+ {
+  coords 4867.378 28.596 11731.051
+  angles 0 -89.504 0
+ }
+}
+$grp GenericEntity : "{F73662767AF7D7B5}PrefabLibrary/DefaultLibrary/Props/Industrial/CargoContainer_01_10ft/CargoContainer_01_10ft_blue.et" {
+ {
+  coords 4883.625 28.594 11774.695
+ }
+ {
+  coords 4883.598 28.594 11777.689
+ }
+ {
+  coords 4906.588 28.594 11756.246
+ }
+ {
+  coords 4909.044 28.593 11759.11
+ }
+ {
+  coords 4906.581 28.595 11753.283
+ }
+}
